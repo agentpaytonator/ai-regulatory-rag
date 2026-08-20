@@ -21,3 +21,4 @@ In GitBash, enter the commands 'pip install -r requirements.txt', then 'python -
 
 ## Run the Program
 From the project root directory, run:
+In GitBash, enter the command 'python src/hello.py'.
