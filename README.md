@@ -22,3 +22,9 @@ In GitBash, enter the commands 'pip install -r requirements.txt', then 'python -
 ## Run the Program
 From the project root directory, run:
 In GitBash, enter the command 'python src/hello.py'.
+
+## Run the tests
+In GitBash, enter the command 'python -m pytest'.
+
+## Source
+The regulatory documents used by this project are sourced from publicly available regulatory materials. These documents are used as the source material for the RAG system.
