@@ -13,7 +13,7 @@ The NIST AI RMF was chosen because it is a public, authoritative, and manageable
   a. Valid and reliable; safe; secure and resilient; accountable and transparent; explainable and interpretable; privacy-enhanced; and fair with harmful bias managed. (p. 12, Section 3: AI Risks and Trustworthiness)
 
 3. What are the 4 functions of the AI RMF Core?
-  a. Govern, Map, Measure, and Manage. (p. 21, Section 4: AI RMF Core)
+  a. Govern, Map, Measure, and Manage AI risks. (p. 21, Section 4: AI RMF Core)
 
 4. Is the AI RMF mandatory? 
   a. No. The AI RMF is intended for voluntary use. (p. 1, Executive Summary / Section 1)
