@@ -19,7 +19,7 @@ The NIST AI RMF was chosen because it is a public, authoritative, and manageable
   a. No. The AI RMF is intended for voluntary use. (p. 1, Executive Summary / Section 1)
 
 5. What does the Govern function do? 
-  a. It establishes and implements organizational policies, processes, procedures, and practices for managing AI risks across the organization and AI lifecycle. (p. 24, Section 4.1: Govern)
+  a. It establishes and implements organizational policies, processes, procedures, and practices for managing AI risks across the organization and AI lifecycle. (p. 23, Section 4, Govern 4.1)
 
 # Version-one boundaries
 Input: NIST AI Risk Management Framework (AI RMF 1.0)
