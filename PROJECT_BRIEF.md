@@ -10,16 +10,16 @@ The NIST AI RMF was chosen because it is a public, authoritative, and manageable
   a. To provide a resource for organizations designing, developing, deploying, or using AI systems to manage AI risks and promote trustworthy and responsible AI. (p. 1, Executive Summary)
 
 2. What are the characteristics of trustworthy AI systems? 
-  a. Valid and reliable; safe; secure and resilient; accountable and transparent; explainable and interpretable; privacy-enhanced; and fair with harmful bias managed. (p. 12, Section 3: AI Risks and Trustworthiness)
+  a. Valid and reliable; safe; secure and resilient; fair with harmful bias managed; explainable and interpretable; privacy-enhanced; and accountable and transparent. (p. 12, Section 3: AI Risks and Trustworthiness)
 
 3. What are the 4 functions of the AI RMF Core?
   a. Govern, Map, Measure, and Manage AI risks. (p. 21, Section 4: AI RMF Core)
 
 4. Is the AI RMF mandatory? 
-  a. No. The AI RMF is intended for voluntary use. (p. 1, Executive Summary / Section 1)
+  a. No. The AI RMF is intended for voluntary use and provide flexibility to organizations to all sizes. (p. 2, Executive Summary / Section 1)
 
 5. What does the Govern function do? 
-  a. It establishes and implements organizational policies, processes, procedures, and practices for managing AI risks across the organization and AI lifecycle. (p. 23, Section 4, Govern 4.1)
+  a. It establishes and implements organizational policies and practices for managing AI risks across the organization and AI lifecycle. (p. 23, Section 4, Govern 4.1)
 
 # Version-one boundaries
 Input: NIST AI Risk Management Framework (AI RMF 1.0)
