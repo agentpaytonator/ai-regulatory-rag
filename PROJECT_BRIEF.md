@@ -1,5 +1,5 @@
 # Project goal
-Build a retrieval-augmented generation (RAG) system that answers questions about the NIST AI Risk Management Framework (AI RMF 1.0) and provides the supporting source passage from the document.
+Build a retrieval-augmented generation (RAG) system that answers questions about the NIST AI Risk Management Framework (AI RMF 1.0) by finding relevant information from the source document and showing where the answer came from.
 
 # Source document and why it was chosen
 Source: NIST Artificial Intelligence Risk Management Framework (AI RMF 1.0)
