@@ -22,7 +22,7 @@ The NIST AI RMF was chosen because it is a public, authoritative, and manageable
   a. It establishes and implements organizational policies and practices for managing AI risks across the organization and AI lifecycle. (p. 23, Section 4, Govern 4.1)
 
 # Version-one boundaries
-- Input: A question from NIST AI Risk Management Framework (AI RMF 1.0)
+- Input: A question about NIST AI Risk Management Framework (AI RMF 1.0)
 - Output: An answer with the supporting source passage
 - Interface: Command line
 - Not included: User accounts, cloud deployment, elaborate UI, or a large document corpus
