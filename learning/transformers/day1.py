@@ -20,7 +20,7 @@ embeddings = {
     5: [0.1, -0.7, -0.5]
 }
 
-print("Embedding for 'h': ", embeddings[str_to_int["r"]])
+print("Embedding for 'r': ", embeddings[str_to_int["r"]])
 
 logits = [0.2, -0.5, 3.1, 1.4, 2.2, -0.7]
 

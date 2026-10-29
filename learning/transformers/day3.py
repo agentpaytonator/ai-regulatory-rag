@@ -8,7 +8,6 @@ x = torch.tensor([
 
 print("Token embeddings:")
 print(x)
-
 print("Shape:", x.shape)
 
 embedding_size = 3
