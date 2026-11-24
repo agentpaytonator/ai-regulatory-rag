@@ -63,13 +63,32 @@ empty_pages = [
 print("Empty pages: ", empty_pages)
 print("Number of empty pages: ", len(empty_pages))
 
-# Select the 5th PDF page for inspection
-sample_page = pages[4]
+# Select pages from the beginning, middle, and end of the document.
+sample_indices = [0, len(pages) // 2, len(pages) - 1]
 
-# Display the source filename.
-print("Source: ", sample_page["source"])
-# Display the source page number
-print("Page: ", sample_page["page"])
 
-# Display the first 1000 characters of the extracted text.
-print(sample_page["text"][:1000])
+# Loop through the selected page indices.
+for index in sample_indices:
+    # Retrieve the corresponding page.
+    sample_page = pages[index]
+
+    # Display a separator between sample pages.
+    print("\n" + "=" * 60)
+
+    # Display the PDF page number.
+    print("Page: ", sample_page["page"])
+
+    # Display the full extracted text of the selected page.
+    print(sample_page["text"])
+
+# Define a section heading to search for in the extracted text.
+heading = "Framing Risk"
+
+# Loop through all extracted pages.
+for page in pages:
+    # Check whether the section heading appears in the page text.
+    if heading in page["text"]:
+        # Display the page number. 
+        print("\nPage: ", page["page"])
+        # Display the extracted text.
+        print(page["text"])
